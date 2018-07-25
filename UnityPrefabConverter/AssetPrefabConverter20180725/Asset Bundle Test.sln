@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asset Bundle Test", "Assembly-CSharp.csproj", "{D3302DC4-E503-1387-3B09-73DDA3268405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asset Bundle Test", "Assembly-CSharp-Editor.csproj", "{DBB1352F-66AB-CEC2-8C86-D8294C4C2100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3302DC4-E503-1387-3B09-73DDA3268405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3302DC4-E503-1387-3B09-73DDA3268405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3302DC4-E503-1387-3B09-73DDA3268405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3302DC4-E503-1387-3B09-73DDA3268405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBB1352F-66AB-CEC2-8C86-D8294C4C2100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB1352F-66AB-CEC2-8C86-D8294C4C2100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB1352F-66AB-CEC2-8C86-D8294C4C2100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB1352F-66AB-CEC2-8C86-D8294C4C2100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
